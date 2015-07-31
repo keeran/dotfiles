@@ -9,3 +9,4 @@ function parse_git_branch {
 
 export PS1="\[\033[0;33m\]\u@\h \w \[\033[0m\] \$(parse_git_branch) \n\[\033[0;33m\]>\[\033[0m\] "
 
+source /opt/boxen/env.sh
