@@ -1,0 +1,3 @@
+[submodule]
+  path = other
+  url = git://github.com:vijayh/dotfiles.git
